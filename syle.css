@@ -57,7 +57,7 @@
     
 
 body{
-    background: gray;
+    background: rgb(219, 219, 219);
 }
 main{
     padding: 3rem 0;
@@ -89,9 +89,9 @@ main {
     padding: 2rem;
     background-color: #fff;
 } */
-/* nav {
+ nav {
     justify-items: center;
     margin-bottom: 2rem;
     margin: 2rem ;
     background-color: #fff;
-} */
+} 
