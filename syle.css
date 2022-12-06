@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+@media (max-width: 575.98px) { 
+
+    
+    /* .box1{
+        color: rgb(253, 12, 12);
+        width: 100%;
+        height: 100%;
+        background-color: rgb(15, 237, 156);
+        font-size: 30px;
+    
+    } */
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .box1{
+        color: rgb(235, 24, 179);
+        width: 100%;
+        height: 100%;
+        background-color: rgb(15, 182, 237);
+    
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+
+@media (min-width: 1200px) { 
+    
+    .box1{
+        color: aqua;
+        width: 100px;
+        height: 200px;
+        background-color: black;
+    
+    }
+ }
+
+.container{
+    background: none;
+    /* height: 3rem; */
+    font-size: 18px;
+        /* margin-left: full%;
+        padding-left: 0%; */
+
+    
+}
+
+
+    
+
+body{
+    background: rgb(215, 214, 214);
+}
+main{
+    padding: 3rem 0;
+}
+.pic{
+    background-position: center;
+    width: 100%;
+    height: auto;
+
+}
+main {
+    text-align: justify;
+    margin-bottom: 1rem;
+    margin: 1rem ;
+    background-color: #fff;
+}
+.main-list{
+    margin-left: 9rem ;
+    margin-right: 9rem ;
+    padding: 2rem;
+    background-color: #fff;
+}
+.icon{
+    width: 8%;
+}
+
+/* .list {
+    width: 100%;
+    padding: 2rem;
+    background-color: #fff;
+} */
+/* nav {
+    justify-items: center;
+    margin-bottom: 2rem;
+    margin: 2rem ;
+    background-color: #fff;
+} */
